@@ -21,8 +21,8 @@ var p1 = {
 		}
 
 var p2 = { 
-			"lat":-33.5,
-			"lon":-71
+			"lat":-33,
+			"lon":-72
 		}
 
 // calculation		
